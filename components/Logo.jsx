@@ -5,7 +5,7 @@ const Logo = () => {
   return (
     <Link href="/">
       <Image
-        class="max-w-[100px] md:max-w-[165px]"
+        className="max-w-[100px] md:max-w-[165px]"
         src="/lws_logo.png"
         alt="Lws"
         height={100}

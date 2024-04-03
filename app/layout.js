@@ -5,8 +5,8 @@ import Navbar from "@/components/Navbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Pixel Pulse",
-  description: "A website built with Next.js",
+  title: "PhotoFeed",
+  description: "A Photo Feed App built with Next.js",
 };
 
 export default function RootLayout({ children }) {
